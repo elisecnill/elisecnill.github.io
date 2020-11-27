@@ -10732,7 +10732,7 @@ header.masthead {
 }
 
     header.masthead .masthead-subheading {
-        font-size: 1.5rem;
+        font-size: 0.5rem;
         font-style: italic;
         line-height: 1.5rem;
         margin-bottom: 25px;
@@ -10740,7 +10740,7 @@ header.masthead {
     }
 
     header.masthead .masthead-heading {
-        font-size: 3.25rem;
+        font-size: 1.5rem;
         font-weight: 700;
         line-height: 3.25rem;
         margin-bottom: 2rem;
@@ -10751,6 +10751,7 @@ header.masthead {
     header.masthead {
         padding-top: 17rem;
         padding-bottom: 12.5rem;
+        text-align: left;
     }
 
         header.masthead .masthead-subheading {
