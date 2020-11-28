@@ -10756,13 +10756,11 @@ header.masthead {
     }
 
         header.masthead .masthead-subheading {
-            font-size: 1.5rem;
+            font-size: 1.0rem;
             font-style: italic;
             line-height: 2.25rem;
             margin-bottom: 2rem;
             width: 50%;
-            background-color:black;
-            color: white;
         }
 
         header.masthead .masthead-heading {
@@ -10771,6 +10769,8 @@ header.masthead {
             line-height: 4.5rem;
             margin-bottom: 4rem;
             width: 50%;
+            background-color: black;
+            color: white;
         }
 }
 
