@@ -68,14 +68,19 @@ body {
     text-align: left;
     background-color: #fff;
 }
-.contact-heading{
+.contact{
+    font-size: 1rem;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.contact-info {
     background-color: white;
     color: black;
+    text-align:center;
+    font-size: 0.8rem;
+
 }
-.contact-subheading {
-    background-color: white;
-    color: black;
-}
+
 
 [tabindex="-1"]:focus:not(:focus-visible) {
     outline: 0 !important;
