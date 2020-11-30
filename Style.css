@@ -10554,8 +10554,8 @@ img::-moz-selection {
 .me {
     padding-top: 10.5rem;
     padding-bottom: 12.5rem;
-    float: right;
-    height: 400px;
+    text-align: right;
+    height: 500px;
     width: 50%;
 }
 header.masthead {
