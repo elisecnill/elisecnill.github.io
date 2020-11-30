@@ -10626,7 +10626,7 @@ header.masthead {
 
     .about-subheading {
         font-size: 1.5rem;
-        text-align: center;
+        text-align: left;
         font-style: italic;
         line-height: 1.5rem;
         margin-bottom: 25px;
@@ -10635,7 +10635,7 @@ header.masthead {
 
     .about-heading {
         font-size: 2.5rem;
-        text-align: center;
+        text-align: left;
         font-weight: 700;
         line-height: 3.25rem;
         margin-bottom: 2rem;
@@ -10646,7 +10646,7 @@ header.masthead {
     header.masthead {
         padding-top: 10rem;
         padding-bottom: 12.5rem;
-        text-align: center;
+        text-align: left;
     }
 
         .about-subheading {
