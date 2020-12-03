@@ -10553,10 +10553,11 @@ img::-moz-selection {
 }
 
 .me {
-    padding-top: 10.5rem;
+    padding-top: 5rem;
     padding-bottom: 12.5rem;
     float: right;
-    height: 100px;
+    height: 50rem;
+    padding-right: 5rem;
 }
 header.masthead {
     padding-top: 10.5rem;
