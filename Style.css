@@ -4172,6 +4172,7 @@ input[type=button].btn-block {
     .navbar-expand-sm > .container-xl {
         padding-right: 0;
         padding-left: 0;
+        background-color:black;
     }
 }
 
@@ -4222,6 +4223,7 @@ input[type=button].btn-block {
     .navbar-expand-md > .container-xl {
         padding-right: 0;
         padding-left: 0;
+        background-color: black;
     }
 }
 
@@ -4272,6 +4274,7 @@ input[type=button].btn-block {
     .navbar-expand-lg > .container-xl {
         padding-right: 0;
         padding-left: 0;
+        background-color: black;
     }
 }
 
@@ -4322,6 +4325,7 @@ input[type=button].btn-block {
     .navbar-expand-xl > .container-xl {
         padding-right: 0;
         padding-left: 0;
+        background-color: black;
     }
 }
 
