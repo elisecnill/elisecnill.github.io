@@ -5,6 +5,16 @@
       "taskLabel": "task-elisecnill.github",
       "appliesTo": "/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-elisecnill.github",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-index",
+      "appliesTo": "index.html",
+      "type": "launch"
     }
   ]
 }
