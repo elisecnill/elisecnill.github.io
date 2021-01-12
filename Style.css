@@ -2367,8 +2367,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: white;
-    border-color: white;
+    background-color: midnightblue;
+    border-color: midnightblue;
 }
 
     .btn-primary:hover {
@@ -2386,8 +2386,8 @@ fieldset:disabled a.btn {
 
     .btn-primary.disabled, .btn-primary:disabled {
         color: #fff;
-        background-color: white;
-        border-color: white;
+        background-color: midnightblue;
+        border-color: midnightblue;
     }
 
     .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
@@ -2507,8 +2507,8 @@ fieldset:disabled a.btn {
 
 .btn-warning {
     color: #fff;
-    background-color: white;
-    border-color: white;
+    background-color: midnightblue;
+    border-color: midnightblue;
 }
 
     .btn-warning:hover {
@@ -2526,8 +2526,8 @@ fieldset:disabled a.btn {
 
     .btn-warning.disabled, .btn-warning:disabled {
         color: #fff;
-        background-color: white;
-        border-color: white;
+        background-color: midnightblue;
+        border-color: midnightblue;
     }
 
     .btn-warning:not(:disabled):not(.disabled):active, .btn-warning:not(:disabled):not(.disabled).active, .show > .btn-warning.dropdown-toggle {
@@ -2647,13 +2647,13 @@ fieldset:disabled a.btn {
 
 .btn-outline-primary {
     color: white;
-    border-color: white;
+    border-color: midnightblue;
 }
 
     .btn-outline-primary:hover {
         color: #fff;
-        background-color: white;
-        border-color: white;
+        background-color: midnightblue;
+        border-color: midnightblue;
     }
 
     .btn-outline-primary:focus, .btn-outline-primary.focus {
@@ -2667,8 +2667,8 @@ fieldset:disabled a.btn {
 
     .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show > .btn-outline-primary.dropdown-toggle {
         color: #fff;
-        background-color: white;
-        border-color: white;
+        background-color: midnightblue;
+        border-color: midnightblue;
     }
 
         .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-primary.dropdown-toggle:focus {
